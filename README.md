@@ -22,10 +22,10 @@ The first, is that the majority of countries are winning more bronze medals than
 Countries that win more medals tend to meanrevert to 33% bronze with countries that win less in total (but still some), favoring a 3rd place finish.
 I show that this is expalined by event dominance (and we can infer that this, itself, is likely expalained through a function of funding and population differences).
 
-However, this is not what's effecting our sample of European countries.<br>
+However, this is not what's affecting our sample of European countries.<br>
 More than half of the bonze medals won by the countries in our sample are won by countries that are winning lots of medals AND still disspropotionally bronze.
 
-The second phenomenon we see is that, countries that are winning the most medals for Europe (and thus are effecting the total counts the most) are mostly (more than the normalized 33%) winning bronze.
+The second phenomenon we see is that, countries that are winning the most medals for Europe (and thus are affecting the total counts the most) are mostly (more than the normalized 33%) winning bronze.
 This is because they in events where they perform well enough to podium, they are generally performing worse than a few other countries that are not in our sample (namely China and to a lesser extent the US, Korea, and Uzbekistan).
 This condition sufficiently explains the distribution of Bronze finishes for the population of European countries both individually and in aggregate.
 
