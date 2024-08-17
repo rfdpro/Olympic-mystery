@@ -3,9 +3,9 @@ Exploring the olympic phenomenon that European countries win disproportionately 
 
 Source: [I Have Uncovered an Olympics Mystery... (youtube.com)](https://www.youtube.com/watch?v=kuvKukJNmzI)
 
-All else equal, each (Gold, Silver, Bronze) Olympic medal is equally likely to be won because the same number is (generally, but not always) given out.
+All else equal, each Olympic medal (Gold, Silver, Bronze) is equally likely to be won because the same number is (generally, but not always) given out.
 
-However, in practice we see that bronze is ~3% more likely to be won than any other for any (random) country.
+However, in practice we see that bronze is ~3% more likely to be won than any other for any (random) country.<br>
 With that said, in Europe, reliably over the years, this relative chance baloons to +7%. Why?
 
 Using data provided by [Kaggle](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games), I evaluated a few theories for this result.
